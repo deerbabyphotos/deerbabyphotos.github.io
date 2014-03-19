@@ -4,6 +4,7 @@ title: About
 ---
 <img src="/img/rates_hover.png" />
 <div class="text">
-  {% include rates.md %}
+  {% capture rates %}{% include rates.md %}{% endcapture %}
+  {{ rates | markdownify }}
 </div>
 

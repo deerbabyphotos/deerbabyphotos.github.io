@@ -2,4 +2,8 @@
 layout: default
 title: About
 ---
-{% include about.md %}
+<img src="/img/about_hover.png" />
+<div class="text">
+  {% capture about %}{% include about.md %}{% endcapture %}
+  {{ about | markdownify }}
+</div>

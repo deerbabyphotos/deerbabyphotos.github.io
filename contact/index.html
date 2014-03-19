@@ -2,8 +2,10 @@
 layout: default
 title: Contact
 ---
-<img src="/img/contact_hover.png" />
-<div class="text">
-  {% include contact.md %}
+<div class="center">
+  <img src="/img/contact_hover.png" />
+  <div class="text">
+    {% capture contact %}{% include contact.md %}{% endcapture %}
+    {{ contact | markdownify }}
+  </div>
 </div>
-
