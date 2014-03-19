@@ -1,31 +1,30 @@
 ---
-title: 'This is my Site Title'
+title: 'Welcome'
 ---
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Site Title {% if page.url != '/index.html' %}| {{page.title}}{% endif %}</title>
+  <title>Deerbaby Photos {% if page.url != '/index.html' %}| {{page.title}}{% endif %}</title>
   <meta charset='UTF-8'/>
   <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
-  <link rel='alternate' type='application/rss+xml' title='RSS' href='SITEURLGOESHERE/blog.rss' />
   <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
   <link href='{{site.baseurl}}/site.css' rel='stylesheet' />
 </head>
 <body>
-  <div class='container'>
-    <div class='col12 clearfix'>
-      <div class='header col6 margin3 pad4h'>
-        <div class='clearfix col12'>
-          <div class='menu fr'>
-            <a class='{% if page.section == "blog" %}active{% endif %}' href='{{site.baseurl}}/'>Blog</a>
-            <a class='{% if page.url == "about/" %}active{% endif %}' href='{{site.baseurl}}/about'>About</a>
-            <a href='//github.com/prose/starter'>Fork on GitHub</a>
-          </div>
-          <h1 class='title'><a href='{{site.baseurl}}/'>{{page.title}}</a></h1>
-        </div>
-      </div>
+  <div id="container">
+    <div id="content">
+      {{content}}
     </div>
-    {{content}}
+    {% if page.url != '/' %}
+    <ul id="navigation">
+      <li id="nav-contact"><a href="/contact"></a></li>
+      <li id="nav-baby-photography"><a href="/baby-photography"></a></li>
+      <li id="nav-about"><a href="/about"></a></li>
+      <li id="nav-rates"><a href="/rates"></a></li>
+    </ul>
+    {% endif %}
+    <a href="/" id="deer-baby"></a>
+    <div id="deer-baby-logo"></div>
   </div>
   <script src='{{site.baseurl}}/site.js'></script>
 </body>
