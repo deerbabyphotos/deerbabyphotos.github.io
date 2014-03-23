@@ -5,10 +5,12 @@ The session will take place in the comfort of your home and it includes
 
 -  _my time and expertise during the shoot and post-processing
 - _a 90 minute session with your newborn and family
-- _all edited images uploaded to a password protected online gallery (no watermarks)
+- _all edited photos uploaded to a password protected online gallery (no watermarks)
 - _all edited photos in high resolution (no watermarks) on a memory stick, within 10 days of the session
+_ _the family will receive about 100 - 150 photos, which are a mix of color and B&W
 - _a phone consultation before the session to discuss planning, expectations, wardrobe...
 
+I will bring a variety of blankets and wraps. Please let me know if the natural light in your apartment is not great, so I can bring lighting equipment. 
 
 Travel fee may apply depending upon your location.
 No fee within Brooklyn, Manhattan and Queens.
