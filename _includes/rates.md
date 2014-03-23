@@ -1,5 +1,5 @@
-I like it simple! So my baby photography session fee is all inclusive:  __$400__ for weekdays
-and __$450__ for weekends.
+I like it simple! So my baby photography session fee is all inclusive:  
+__$400__ for weekdays and __$450__ for weekends.
 
 The session will take place in the comfort of your home and it includes
 
