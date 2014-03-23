@@ -3,7 +3,7 @@ __$400__ for weekdays and __$450__ for weekends.
 
 The session will take place in the comfort of your home and it includes
 
-_-  my time and expertise during the shoot and post-processing
+_ my time and expertise during the shoot and post-processing
 - a 90 minute session with your newborn and family
 - all edited photos uploaded to a password protected online gallery (no watermarks)
 - all edited photos in high resolution (no watermarks) on a memory stick, within 10 days of the session
