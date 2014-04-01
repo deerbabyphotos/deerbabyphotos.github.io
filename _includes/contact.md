@@ -1,5 +1,5 @@
-Brooklyn Brush Studios
-Julia Cawley | Suite #218
+Brooklyn Brush Studios  
+Julia Cawley | Suite #218  
 362 Jefferson Street Brooklyn  
 NY 11237
  
