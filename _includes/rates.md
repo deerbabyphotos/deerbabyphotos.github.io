@@ -1,5 +1,21 @@
-I like it simple! So my baby photography session fee is all inclusive:  
-__$400__ for weekdays and __$450__ for weekends.
+I like it simple! So I only offer two different packages for my sessions:
+
+**Little Foot** $300
+
+The fee is all inclusive:
+
+_ a session that takes place in the comfort of your home
+_ my time and expertise during the shoot and post-processing
+- a 90 minute session with your newborn and family
+- all edited photos uploaded to a password protected online gallery (no watermarks)
+- all edited photos in high resolution (no watermarks) on a memory stick, within 10 days of the session
+ the family will receive about 100 - 150 photos, which are a mix of color and B&W
+- a phone consultation before the session to discuss planning, expectations, wardrobe..._
+
+**Big Foot** $450
+
+(weekend surcharge for both packages: $50)
+
 
 The session will take place in the comfort of your home and it includes
 
