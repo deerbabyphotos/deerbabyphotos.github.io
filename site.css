@@ -326,6 +326,8 @@ body {
   font-style: italic;
   font-size: 14px;
   line-height: 1.2;
+  margin-top: 20px;
+  padding: 10px;
 }
 /* Global Style
 ------------------------------------------------------- */
@@ -516,6 +518,9 @@ Details: http://www.positioniseverything.net/easyclearing.html
   height: 124px;
   background: url('img/deer-baby.jpg') top left no-repeat;
 }
+#deer-baby:hover {
+  background: url('img/deer-baby_hover.png') top left no-repeat;
+}
 #deer-baby-logo {
   position: absolute;
   bottom: 20px;
@@ -523,6 +528,17 @@ Details: http://www.positioniseverything.net/easyclearing.html
   width: 114px;
   height: 37px;
   background: url('img/deer-baby-logo.png') top left no-repeat;
+}
+#tropfen {
+  background: url('img/tropfen.png') top left no-repeat;
+  position: absolute;
+  top: 50px;
+  left: 60px;
+  width: 205px;
+  height: 145px;
+  opacity: 0.5;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+  filter: alpha(opacity=50);
 }
 #baby-photography {
   width: 382px;
@@ -532,6 +548,9 @@ Details: http://www.positioniseverything.net/easyclearing.html
   top: 100px;
   left: 76px;
 }
+#baby-photography:hover {
+  background: url('img/baby-photography_hover.png') top left no-repeat;
+}
 #about {
   background: url('img/about.png') top left no-repeat;
   width: 280px;
@@ -539,6 +558,9 @@ Details: http://www.positioniseverything.net/easyclearing.html
   position: absolute;
   left: 249px;
   top: 290px;
+}
+#about:hover {
+  background: url('img/about_hover.png') top left no-repeat;
 }
 #contact {
   background: url('img/contact.png') top left no-repeat;
@@ -548,6 +570,9 @@ Details: http://www.positioniseverything.net/easyclearing.html
   left: 450px;
   top: 30px;
 }
+#contact:hover {
+  background: url('img/contact_hover.png') top left no-repeat;
+}
 #rates {
   background: url('img/rates.png') top left no-repeat;
   width: 156px;
@@ -555,6 +580,9 @@ Details: http://www.positioniseverything.net/easyclearing.html
   position: absolute;
   left: 150px;
   top: 400px;
+}
+#rates:hover {
+  background: url('img/rates_hover.png') top left no-repeat;
 }
 #navigation {
   position: absolute;
@@ -575,17 +603,57 @@ Details: http://www.positioniseverything.net/easyclearing.html
   background: url('img/navigation/contact.png') top right no-repeat;
   height: 73px;
 }
+#navigation #nav-contact:hover {
+  background: url('img/navigation/contact_hover.png') top right no-repeat;
+}
 #navigation #nav-baby-photography {
   background: url('img/navigation/baby-photography.png') top left no-repeat;
   height: 103px;
   margin-top: -17px;
+}
+#navigation #nav-baby-photography:hover {
+  background: url('img/navigation/baby-photography_hover.png') top left no-repeat;
 }
 #navigation #nav-about {
   background: url('img/navigation/about.png') top right no-repeat;
   height: 98px;
   margin-top: -20px;
 }
+#navigation #nav-about:hover {
+  background: url('img/navigation/about_hover.png') top right no-repeat;
+}
 #navigation #nav-rates {
   background: url('img/navigation/rates.png') top center no-repeat;
   height: 47px;
+}
+#navigation #nav-rates:hover {
+  background: url('img/navigation/rates_hover.png') top center no-repeat;
+}
+
+/** Content **/
+#content.page-contact {
+  width: 500px;
+  margin: 20px auto;
+  padding-top: 50px;
+}
+#content.page-contact img{
+  display: block;
+  margin: 0px auto;
+  padding: 10px;
+}
+#content.page-about img.headline {
+  margin: 20px;
+}
+#content.page-about ul.julia, #content.page-about-me ul.julia {
+  margin: 20px 0 0;
+  padding: 0;
+  list-style: none;
+}
+#content.page-about ul.julia li, #content.page-about-me ul.julia li{
+  list-style: none;
+  float: left;
+  padding: 0 10px;
+}
+#content.page-about-me img.headline {
+  display: block;
 }
