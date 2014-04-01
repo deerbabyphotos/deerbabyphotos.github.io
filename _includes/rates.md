@@ -1,17 +1,17 @@
 I like it simple! So I only offer two different packages for my sessions:
 
-**Little Foot** $300
+**Newborn Session** $300
 
 This is a session that focuses on your little one only:
 
 _ a session that takes place in the comfort of your home
-- a 60 minute session with your newborn/child only (no photos with parents included!)
+- a 60 minute session with your newborn only (no photos with parents, siblings included!)
 - all edited photos (about 100, a mix of color & BW) uploaded to a password protected online gallery (no watermarks)
 - all edited photos (about 100, a mix of color & BW) in high resolution (no watermarks) on a memory stick, within 10 days of the session
 - a phone/email consultation before the session to discuss planning, expectations, wardrobe..._
 
 
-**Big Foot** $450
+**Family Session** $450
 
 This session is great for photos of your little one plus many family photos!
 
