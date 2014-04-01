@@ -2,7 +2,7 @@ I like it simple! So I only offer two different packages for my sessions:
 
 **Little Foot** $300
 
-The fee is all inclusive:
+This is a session that focuses on your little one only:
 
 _ a session that takes place in the comfort of your home
 - a 60 minute session with your newborn/child only (no photos with parents included!)
@@ -12,6 +12,8 @@ _ a session that takes place in the comfort of your home
 
 
 **Big Foot** $450
+
+This session is great for photos of your little one plus many family photos!
 
 _ a session that takes place in the comfort of your home
 - a 120 minute session with all your family members. Pets are welcome too. :-)
