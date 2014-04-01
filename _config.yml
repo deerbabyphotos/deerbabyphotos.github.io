@@ -1,6 +1,6 @@
 baseurl: 
 permalink: pretty
-markdown: rdiscount
+markdown: redcarpet
 prose:
   siteurl: 'http://deerbabyphotos.github.io/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
