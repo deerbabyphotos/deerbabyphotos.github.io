@@ -1,0 +1,13 @@
+---
+layout: default
+title: Baby Photography
+---
+<div class="slideshow">
+  <ul class="slides">
+    {% for photo in site.data.slideshow %}
+      <li>
+        <img src="/media/{{photo.src}}" />
+      </li>
+    {% endfor %}
+  </ul>
+</div>

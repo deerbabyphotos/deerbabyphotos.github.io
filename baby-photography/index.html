@@ -2,4 +2,12 @@
 layout: default
 title: Baby Photography
 ---
-SLideshow
+<ul class="thumbs">
+  {% for photo in site.data.slideshow %}
+    <li>
+      <a href="/baby-photography/photos/#{{forloop.index}}">
+        <img src="/media/thumbs/{{photo.src}}" />
+      </a>
+    </li>
+  {% endfor %}
+</ul>
