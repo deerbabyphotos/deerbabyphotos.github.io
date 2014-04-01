@@ -318,7 +318,7 @@ body {
   background: #fff;
   margin: 0 auto;
   position: relative;
-  height: 600px;
+  min-height: 600px;
 }
 #content {
   width: 700px;
@@ -657,3 +657,78 @@ Details: http://www.positioniseverything.net/easyclearing.html
 #content.page-about-me img.headline {
   display: block;
 }
+ul.thumbs li {
+  float: left;
+  padding: 5px;
+}
+.slideshow {
+  width: 700px;
+  height: 600px;
+  position: relative;
+}
+.slideshow .slides > li {
+  display: none;
+  -webkit-backface-visibility: hidden;
+}
+.slideshow .slides img {
+  width: 100%;
+  display: block;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+}
+.slideshow .slides:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+.slideshow .slides { zoom: 1; }
+.slideshow .flex-control-nav {
+  bottom: 40px;
+  width: 700px;
+}
+.slideshow .flex-control-paging li a {
+  width: 8px;
+  height: 8px;
+}
+.slideshow .flex-control-nav li {
+  margin: 0 5px;
+}
+.slideshow .flex-direction-nav a{
+  background: url(../img/back.png) no-repeat;
+  display: block;
+  position: absolute;
+  margin: -17px 0 0 0;
+  width: 41px;
+  height: 36px;
+  bottom: 60px;
+  top: 76%;
+  color: #fff;
+  opacity: 1;
+  font-size: 0px;
+  cursor: pointer;
+  text-indent: -9999px;
+}
+.slideshow .flex-direction-nav .flex-next {
+  right: -5px;
+  background: url(../img/forward.png) no-repeat;
+}
+.slideshow .flex-direction-nav .flex-next:hover {
+  background: url(../img/forward_hover.png) no-repeat;
+}
+.slideshow .flex-direction-nav .flex-prev{
+  left: -5px;
+}
+.slideshow .flex-direction-nav .flex-prev:hover {
+  background: url(../img/back_hover.png) no-repeat;
+}
+.slideshow .flex-direction-nav a.flex-next:before {
+  content: '';
+}
+
+
+html[xmlns] .slides { display: block; }
+* html .slides { height: 1%; }
