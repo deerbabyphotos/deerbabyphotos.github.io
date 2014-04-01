@@ -19,6 +19,9 @@ _ a session that takes place in the comfort of your home
 - all edited photos (about 200, a mix of color & BW) in high resolution (no watermarks) on a memory stick, within 10 days of the session
 - a phone/email consultation before the session to discuss planning, expectations, wardrobe..._
 
+
+**What else?**
+
 I will bring a variety of blankets and wraps. Please let me know if the natural light in your apartment is not great, so I can bring lighting equipment. 
 
 Travel fee may apply depending upon your location.
