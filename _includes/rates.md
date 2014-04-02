@@ -36,14 +36,5 @@ I also have a small studio in Bushwick that can be made available upon request.
 I’m also available to shoot birthday parties, ceremonies, and other family gatherings
 
 The ideal time for a newborn session is within the first 10 days of life, but of course we can take beautiful photos at any time.  Would you like photos of your newborn also at 3 months, 6 months, 9 months and at his/her 1st year baby party? I’d love to meet your little one every 3 months, so please ask me about a special discounted package rate for a 1 year baby session subscription!
-There is a weekend surcharge for both packages: $50
- 
-I also have a small studio in Bushwick that can be made available upon
-request. 
-
-I can also be hired to shoot birthday parties, baptism ceremonies, and
-other family gatherings
-
-An ideal time for a newborn session is within the first 10 days of life, but of course we can take beautiful photos at any time. Please also ask me about my package rate for a 1 year baby session subscription! Would you like photos of your newborn also at 3 months, 6 months, 9 months and at his/her 1st year baby party? I love meeting your little one every 3 months, so please ask me about a special discount for that!
  
 Please email me: [julia@deerbabyphoto.com](mailto:julia@deerbabyphoto.com)
