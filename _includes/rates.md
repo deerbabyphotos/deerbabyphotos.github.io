@@ -11,6 +11,7 @@ The fee includes:
 - A phone/email consultation before the session to discuss planning, expectations, wardrobe, etc.
 
 
+
 **Family Session** $450
 
 The fee includes:
