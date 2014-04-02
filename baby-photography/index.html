@@ -4,10 +4,13 @@ title: Baby Photography
 ---
 <ul class="thumbs">
   {% for photo in site.data.slideshow %}
-    <li>
-      <a href="/baby-photography/photos/#{{forloop.index}}">
-        <img src="/media/thumbs/{{photo.src}}" />
-      </a>
-    </li>
+    {% assign index = forloop.index %}
+    {% for thumb in photo.thumbs %}
+      <li>
+        <a href="/baby-photography/photos/#{{index}}">
+          <img src="/media/thumbs/{{thumb.src}}" />
+        </a>
+      </li>
+    {% endfor %}
   {% endfor %}
 </ul>
