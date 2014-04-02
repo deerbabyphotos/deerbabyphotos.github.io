@@ -1,64 +1,144 @@
 - name: Baby 1
   src: deer_baby_01.jpg
+  thumbs: 
+    - src: deer_baby_01.jpg
 - name: Baby 1
   src: deer_baby_02.jpg
+  thumbs: 
+    - src: deer_baby_02.jpg
+    - src: deer_baby_03.jpg
 - name: Baby 1
   src: deer_baby_03.jpg
+  thumbs: 
+    - src: deer_baby_04.jpg
 - name: Baby 1
   src: deer_baby_04.jpg
+  thumbs: 
+    - src: deer_baby_05.jpg
+    - src: deer_baby_06.jpg
 - name: Baby 1
   src: deer_baby_05.jpg
+  thumbs: 
+    - src: deer_baby_07.jpg
+    - src: deer_baby_08.jpg
 - name: Baby 1
   src: deer_baby_06.jpg
+  thumbs: 
+    - src: deer_baby_09.jpg
 - name: Baby 1
   src: deer_baby_07.jpg
+  thumbs: 
+    - src: deer_baby_10.jpg
+    - src: deer_baby_11.jpg
 - name: Baby 1
   src: deer_baby_08.jpg
+  thumbs: 
+    - src: deer_baby_12.jpg
 - name: Baby 1
   src: deer_baby_09.jpg
+  thumbs: 
+    - src: deer_baby_13.jpg
+    - src: deer_baby_14.jpg
 - name: Baby 1
   src: deer_baby_10.jpg
+  thumbs: 
+    - src: deer_baby_15.jpg
 - name: Baby 1
   src: deer_baby_11.jpg
+  thumbs: 
+    - src: deer_baby_16.jpg
 - name: Baby 1
   src: deer_baby_12.jpg
+  thumbs: 
+    - src: deer_baby_17.jpg
+    - src: deer_baby_18.jpg
 - name: Baby 1
   src: deer_baby_13.jpg
+  thumbs: 
+    - src: deer_baby_19.jpg
 - name: Baby 1
   src: deer_baby_14.jpg
+  thumbs: 
+    - src: deer_baby_20.jpg
+    - src: deer_baby_21.jpg
 - name: Baby 1
   src: deer_baby_15.jpg
+  thumbs: 
+    - src: deer_baby_22.jpg
 - name: Baby 1
   src: deer_baby_16.jpg
+  thumbs: 
+    - src: deer_baby_23.jpg
+    - src: deer_baby_24.jpg
 - name: Baby 1
   src: deer_baby_17.jpg
+  thumbs: 
+    - src: deer_baby_25.jpg
 - name: Baby 1
   src: deer_baby_18.jpg
+  thumbs: 
+    - src: deer_baby_26.jpg
+    - src: deer_baby_27.jpg
 - name: Baby 1
   src: deer_baby_19.jpg
+  thumbs: 
+    - src: deer_baby_28.jpg
 - name: Baby 1
   src: deer_baby_20.jpg
+  thumbs: 
+    - src: deer_baby_29.jpg
+    - src: deer_baby_30.jpg
 - name: Baby 1
   src: deer_baby_21.jpg
+  thumbs: 
+    - src: deer_baby_31.jpg
 - name: Baby 1
   src: deer_baby_22.jpg
+  thumbs: 
+    - src: deer_baby_32.jpg
+    - src: deer_baby_33.jpg
 - name: Baby 1
   src: deer_baby_23.jpg
+  thumbs: 
+    - src: deer_baby_34.jpg
 - name: Baby 1
   src: deer_baby_24.jpg
+  thumbs: 
+    - src: deer_baby_35.jpg
+    - src: deer_baby_36.jpg
 - name: Baby 1
   src: deer_baby_25.jpg
+  thumbs: 
+    - src: deer_baby_37.jpg
 - name: Baby 1
   src: deer_baby_26.jpg
+  thumbs: 
+    - src: deer_baby_38.jpg
+    - src: deer_baby_39.jpg
 - name: Baby 1
   src: deer_baby_27.jpg
+  thumbs: 
+    - src: deer_baby_40.jpg
 - name: Baby 1
   src: deer_baby_28.jpg
+  thumbs: 
+    - src: deer_baby_41.jpg
+    - src: deer_baby_42.jpg
 - name: Baby 1
   src: deer_baby_29.jpg
+  thumbs: 
+    - src: deer_baby_43.jpg
 - name: Baby 1
   src: deer_baby_30.jpg
+  thumbs: 
+    - src: deer_baby_44.jpg
+    - src: deer_baby_45.jpg
 - name: Baby 1
   src: deer_baby_31.jpg
+  thumbs: 
+    - src: deer_baby_46.jpg
 - name: Baby 1
   src: deer_baby_32.jpg
+  thumbs: 
+    - src: deer_baby_47.jpg
+    - src: deer_baby_48.jpg
