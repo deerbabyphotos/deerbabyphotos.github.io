@@ -629,6 +629,17 @@ Details: http://www.positioniseverything.net/easyclearing.html
 #navigation #nav-rates:hover {
   background: url('img/navigation/rates_hover.png') top center no-repeat;
 }
+#page_404 {
+  text-align: center;
+  margin: 50px 50px 0 50px;
+}
+#deer {
+  background: url('img/deer.png') center center no-repeat;
+  width:700px;
+  height: 500px;
+  position: absolute;
+  top: 20px;
+}
 
 /** Content **/
 #content.page-contact {
@@ -728,7 +739,6 @@ ul.thumbs li {
 .slideshow .flex-direction-nav a.flex-next:before {
   content: '';
 }
-
 
 html[xmlns] .slides { display: block; }
 * html .slides { height: 1%; }
