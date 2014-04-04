@@ -1,6 +1,6 @@
 I like it simple! So I offer two different packages for my sessions:
 
-**Newborn Session** $300
+**Newborn Session** $300  
 
 The fee includes:
 
@@ -8,11 +8,11 @@ The fee includes:
 - A 60 minute session with your newborn (photos with parents not included)
 - All edited photos (typically around 100, a mix of color & BW) uploaded to a password protected online gallery (no watermarks)
 - All edited photos (typically around 100, a mix of color & BW) in high resolution (no watermarks) on a memory stick within 10 days of the session
-- A phone/email consultation before the session to discuss planning, expectations, wardrobe, etc.
+- A phone/email consultation before the session to discuss planning, expectations, wardrobe, etc.  
 
 
 
-**Family Session** $450
+**Family Session** $450  
 
 The fee includes:
 
