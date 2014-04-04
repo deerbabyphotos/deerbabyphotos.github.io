@@ -1,7 +1,7 @@
 I like it simple! So I offer two different packages for my sessions:
 
 
-### Newborn Session $300
+### **Newborn Session** $300
 
 The fee includes:
 
@@ -12,7 +12,7 @@ The fee includes:
 - A phone/email consultation before the session to discuss planning, expectations, wardrobe, etc.
 
 
-### Family Session $450
+### **Family Session** $450
 
 The fee includes:
 
