@@ -642,8 +642,16 @@ Details: http://www.positioniseverything.net/easyclearing.html
 }
 
 /** Content **/
-ul {
+#content ul {
   margin-bottom: 20px;
+}
+#content li {
+  list-style: disc;
+  list-style-position: outside;
+  margin: 10px;
+}
+#content h3 {
+  margin: 40px 0 20px 0;
 }
 #content.page-contact {
   width: 500px;
