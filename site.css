@@ -679,14 +679,20 @@ Details: http://www.positioniseverything.net/easyclearing.html
 #content.page-about-me img.headline {
   display: block;
 }
-ul.thumbs li {
+#content ul.thumbs li {
   float: left;
   padding: 5px;
+  list-style: none;
+  margin: 0px;
 }
 .slideshow {
   width: 700px;
   height: 600px;
   position: relative;
+}
+#content .slideshow .slides li {
+  list-style: none;
+  margin: 0;
 }
 .slideshow .slides > li {
   display: none;
@@ -716,8 +722,13 @@ ul.thumbs li {
   width: 8px;
   height: 8px;
 }
-.slideshow .flex-control-nav li {
+#content .slideshow .flex-control-nav li {
   margin: 0 5px;
+  list-style: none;
+}
+#content .slideshow .flex-direction-nav li{
+  list-style: none;
+  margin: 0;
 }
 .slideshow .flex-direction-nav a{
   background: url(../img/back.png) no-repeat;
