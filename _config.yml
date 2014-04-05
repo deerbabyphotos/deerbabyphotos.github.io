@@ -1,6 +1,9 @@
 baseurl: 
+production_url: www.deerbabyphoto.com
 permalink: pretty
 markdown: redcarpet
+gems:
+  - jekyll-redirect-from
 prose:
   siteurl: 'http://deerbabyphotos.github.io/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
