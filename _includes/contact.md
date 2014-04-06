@@ -11,7 +11,7 @@ phone 347 878 5856
  
 
 
-blog [www.lizandjewels.com](http://www.lizandjewels.com)
+blog <a href="http://www.lizandjewels.com" target="_blank">www.lizandjewels.com</a>
 
-web [www.juliacawley.com](http://www.juliacawley.com)
+web <a href="http://www.juliacawley.com" target="_blank">www.juliacawley.com</a>
 
