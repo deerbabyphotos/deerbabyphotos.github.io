@@ -6,12 +6,12 @@ NY 11237
 Are you interested in a newborn/baby/family session with me?  
 Please email me.  
  
-[julia[@]deerbabyphoto.com](mailto: julia[@]deerbabyphoto.com)  
+julia@deerbabyphoto.com
 phone 347 878 5856
  
 
 
-blog [www.lizandjewels.com](www.lizandjewels.com)
+blog www.lizandjewels.com
 
-web [www.juliacawley.com](www.juliacawley.com)
+web www.juliacawley.com
 
