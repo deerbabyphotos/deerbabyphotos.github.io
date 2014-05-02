@@ -27,7 +27,7 @@ The fee includes:
 
 I will bring a variety of blankets and wraps. Please let me know if the natural light in your apartment is not great so I can bring lighting equipment. 
 
-No travel fee within Brooklyn, Manhattan, and Queens.  Outside of these boroughs a travel fee may apply.
+No travel fee within Brooklyn, Manhattan, and Queens.  Outside of these boroughs a travel fee may apply. **Hello Bushwick babies!** There is a $50 discount on all packages if your shoot takes place in my hood! 
 
 There is a $50 weekend surcharge for both packages.
  
