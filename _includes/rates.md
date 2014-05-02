@@ -24,7 +24,7 @@ The fee includes:
 
 
 
-### ** What else?**
+### **What else?**
 
 I will bring a variety of blankets and wraps. Please let me know if the natural light in your apartment is not great so I can bring lighting equipment. 
 
