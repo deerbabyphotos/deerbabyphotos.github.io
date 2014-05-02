@@ -23,7 +23,8 @@ The fee includes:
 - A phone/email consultation before the session to discuss planning, expectations, wardrobe, etc. 
 
 
-**### What else?**
+
+### ** What else?**
 
 I will bring a variety of blankets and wraps. Please let me know if the natural light in your apartment is not great so I can bring lighting equipment. 
 
