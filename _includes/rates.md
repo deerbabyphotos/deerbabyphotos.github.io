@@ -10,6 +10,7 @@ The fee includes:
 - All edited photos (typically around 100, a mix of color & BW) uploaded to a password protected online gallery (no watermarks)
 - All edited photos (typically around 100, a mix of color & BW) in high resolution (no watermarks) on a memory stick within 10 days of the session
 - A phone/email consultation before the session to discuss planning, expectations, wardrobe, etc.
+- There is a $50 surcharge for weekends and holidays.
 
 
 ### **Family Session** $450
@@ -21,6 +22,15 @@ The fee includes:
 - All edited photos (typically around 200, a mix of color & BW) uploaded to a password protected online gallery (no watermarks)
 - All edited photos (typically around 200, a mix of color & BW) in high resolution (no watermarks) on a memory stick, within 10 days of the session
 - A phone/email consultation before the session to discuss planning, expectations, wardrobe, etc. 
+- There is a $50 surcharge for weekends and holidays.
+
+
+### **The Album Session** $900
+
+The fee includes everything from the family session PLUS
+
+- A stunning photo book, beautifully layouted 
+(2 copies, hardcover, 10x8 inches, premium matte paper, 60-80 pages)
 
 
 
@@ -28,9 +38,11 @@ The fee includes:
 
 I will bring a variety of blankets and wraps. Please let me know if the natural light in your apartment is not great so I can bring lighting equipment. 
 
-No travel fee within Brooklyn, Manhattan, and Queens.  Outside of these boroughs a travel fee may apply. **Hello Bushwick babies!** There is a $50 discount on all packages if your shoot takes place in my hood! 
+No travel fee within Brooklyn, Manhattan, and Queens.  Outside of these boroughs a travel fee may apply. 
 
-There is a $50 weekend surcharge for both packages.
+**Hello Bushwick babies!** There is a $50 discount on all packages if your shoot takes place in my hood! 
+
+
  
 I also have a small studio in Bushwick that can be made available upon request. 
 
