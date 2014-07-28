@@ -29,7 +29,7 @@ The fee includes:
 
 The fee includes everything from the family session PLUS
 
-- A stunning photo book, beautifully layouted 
+- A stunning photo book, beautifully designed 
 (2 copies, hardcover, 10x8 inches, premium matte paper, 60-80 pages)
 
 
