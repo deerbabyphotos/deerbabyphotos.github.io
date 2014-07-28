@@ -25,7 +25,7 @@ The fee includes:
 - There is a $50 surcharge for weekends and holidays.
 
 
-### **The Album Session** $900
+### **The Album Session** $800
 
 The fee includes everything from the family session PLUS
 
