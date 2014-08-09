@@ -524,6 +524,14 @@ Details: http://www.positioniseverything.net/easyclearing.html
   left: 10px;
   bottom: 0;
 }
+#social div {
+  float: left;
+  margin-right: 10px;
+}
+#social #instagram {
+  height: 20px;
+  padding-top: 3px;
+}
 #deer-baby {
   position: absolute;
   bottom: 0px;
