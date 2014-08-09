@@ -12,6 +12,16 @@
   <link rel='shortcut icon' href='{{site.baseurl}}/img/favicon.ico' type='image/x-icon' />
   <link href='{{site.baseurl}}/site.css' rel='stylesheet' />
   <link href='{{site.baseurl}}/static/flexslider.css' rel='stylesheet' />
+  <div id="fb-root"></div>
+  <script>
+    (function(d, s, id) {
+      var js, fjs = d.getElementsByTagName(s)[0];
+      if (d.getElementById(id)) return;
+      js = d.createElement(s); js.id = id;
+      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1422351708033942&version=v2.0";
+      fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+  </script>
 </head>
 <body>
   <div id="container">
@@ -26,8 +36,19 @@
       <li id="nav-rates"><a href="/rates"></a></li>
     </ul>
     {% endif %}
-    <a href="/" id="deer-baby"></a>
-    <div id="deer-baby-logo"></div>
+    <div id="footer">
+      <div id="social">
+        <div class="fb-like" data-href="https://www.facebook.com/deerbabyphoto" data-width="50" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+        <div id="instagram">
+          <a href="http://instagram.com/deerbabyphoto" target="_blank"><img src="{{site.baseurl}}/img/instagram.png" alt="Instagram" border="0" /></a>
+        </div>
+      </div>
+      <a href="/" id="deer-baby"></a>
+      <div id="deer-baby-logo"></div>
+      <div id="footer-contact">
+        <p>Deer Baby Photography - Julia Cawley - <a href="mailto:julia@deerbabyphoto.com">julia@deerbabyphoto.com</a> - 347-878-5856</p>
+      </div>
+    </div>
   </div>
   <script src='{{site.baseurl}}/site.js'></script>
   <script>

@@ -329,6 +329,10 @@ body {
   margin-top: 20px;
   padding: 10px;
 }
+#footer {
+  font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+  font-size: 14px;
+}
 /* Global Style
 ------------------------------------------------------- */
 .text {
@@ -510,9 +514,27 @@ Details: http://www.positioniseverything.net/easyclearing.html
     }
 }
 /** Navigation **/
-#deer-baby {
+#footer {
   position: absolute;
   bottom: 20px;
+  width: 100%;
+}
+#social {
+  position: absolute;
+  left: 10px;
+  bottom: 0;
+}
+#social div {
+  float: left;
+  margin-right: 10px;
+}
+#social #instagram {
+  height: 20px;
+  padding-top: 3px;
+}
+#deer-baby {
+  position: absolute;
+  bottom: 0px;
   right: 20px;
   width: 74px;
   height: 124px;
@@ -523,11 +545,17 @@ Details: http://www.positioniseverything.net/easyclearing.html
 }
 #deer-baby-logo {
   position: absolute;
-  bottom: 20px;
+  bottom: 0px;
   right: 100px;
   width: 114px;
   height: 37px;
   background: url('img/deer-baby-logo.png') top left no-repeat;
+}
+#footer-contact {
+  position: absolute;
+  left: 150px;
+  right: 230px;
+  bottom: 0px;
 }
 #tropfen {
   background: url('img/tropfen.png') top left no-repeat;
@@ -642,6 +670,9 @@ Details: http://www.positioniseverything.net/easyclearing.html
 }
 
 /** Content **/
+#content {
+  padding-bottom: 50px;
+}
 #content ul {
   margin-bottom: 20px;
 }
