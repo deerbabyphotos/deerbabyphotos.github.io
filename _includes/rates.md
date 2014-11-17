@@ -7,8 +7,8 @@ The fee includes:
 
 - A session that takes place in the comfort of your home (or my studio if you prefer)
 - A 60 minute session with your newborn (photos with parents not included)
-- All edited photos (typically around 100, a mix of color & BW) uploaded to a password protected online gallery (no watermarks)
-- All edited photos (typically around 100, a mix of color & BW) in high resolution (no watermarks) on a memory stick within 10 days of the session
+- All edited photos (typically around 50, a mix of color & BW) uploaded to a password protected online gallery (no watermarks)
+- AND all edited photos in high resolution (no watermarks) on a memory stick within 10 days of the session
 - A phone/email consultation before the session to discuss planning, expectations, wardrobe, etc.
 - There is a $50 surcharge for weekends and holidays.
 
@@ -19,8 +19,8 @@ The fee includes:
 
 - A session that takes place in the comfort of your home (or my studio if you prefer)
 - A 120 minute session with your baby and all family members. Pets are welcome too. :-)
-- All edited photos (typically around 200, a mix of color & BW) uploaded to a password protected online gallery (no watermarks)
-- All edited photos (typically around 200, a mix of color & BW) in high resolution (no watermarks) on a memory stick, within 10 days of the session
+- All edited photos (typically around 120, a mix of color & BW) uploaded to a password protected online gallery (no watermarks)
+- AND all edited photos in high resolution (no watermarks) on a memory stick, within 10 days of the session
 - A phone/email consultation before the session to discuss planning, expectations, wardrobe, etc. 
 - There is a $50 surcharge for weekends and holidays.
 
@@ -38,7 +38,7 @@ The fee includes everything from the family session PLUS
 
 I will bring a variety of blankets and wraps. Please let me know if the natural light in your apartment is not great so I can bring lighting equipment. 
 
-No travel fee within Brooklyn, Manhattan, and Queens.  Outside of these boroughs a travel fee may apply. 
+No travel fee within Brooklyn, Manhattan, and Queens. Outside of these boroughs a travel fee may apply. 
 
 **Hello Bushwick babies!** There is a $50 discount on all packages if your shoot takes place in my hood! 
 
