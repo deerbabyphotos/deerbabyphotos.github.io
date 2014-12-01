@@ -44,7 +44,7 @@ body,
 input,
 textarea {
   color:#516066;
-  font:15px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font:15px/1.67 'Helvetica Neue', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing:antialiased;
   }
 *, *:after, *:before {
@@ -312,7 +312,7 @@ table {
 ------------------------------------------------------- */
 body {
   background: url('img/bg.jpg') top left repeat;
-  min-width: 1000px;
+  width: 1500px;
 }
 
 #wrapper {
