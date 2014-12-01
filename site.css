@@ -28,7 +28,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display:block;
   }
-body { line-height:1; }
+body { line-height:1; min-width: 940px;}
 ol, ul { list-style:none;  }
 blockquote, q { quotes:none; }
 blockquote:before, blockquote:after,
@@ -316,6 +316,7 @@ body {
 }
 #container { 
   width: 940px;
+  min-width: 940px;
   background: #fff;
   margin: 0 auto;
   position: relative;
