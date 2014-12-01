@@ -325,8 +325,7 @@ body {
 }
 
 #container { 
-  width: 100%;
-  
+  width: 940px;
   background: #fff;
   margin: 0 auto;
   position: relative;
