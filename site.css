@@ -316,15 +316,15 @@ body {
 }
 #container { 
   width: 940px;
-  min-width: 1940px;
-  max-width: 1940px;
+  min-width: 940px;
+  max-width: 940px;
   background: #fff;
   margin: 0 auto;
   position: relative;
   min-height: 600px;
 }
 #content {
-  width: 700px;
+  width: 1000px;
   font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
   font-style: italic;
   font-size: 14px;
