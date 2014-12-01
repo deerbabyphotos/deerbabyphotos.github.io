@@ -317,6 +317,7 @@ body {
 #container { 
   width: 940px;
   min-width: 940px;
+  max-width: 940px;
   background: #fff;
   margin: 0 auto;
   position: relative;
