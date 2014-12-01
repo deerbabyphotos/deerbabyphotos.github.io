@@ -318,10 +318,10 @@ body {
   background: #fff;
   margin: 0 auto;
   position: relative;
-  min-height: 600px;
+  min-height: 940px;
 }
 #content {
-  width: 940px;
+  width: 700px;
   font-family:Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
   font-style: italic;
   font-size: 14px;
@@ -618,6 +618,7 @@ Details: http://www.positioniseverything.net/easyclearing.html
   right: 20px;
   margin: 0;
   padding: 0;
+  width: 200px;
 }
 #navigation li {
   width: 200px;
