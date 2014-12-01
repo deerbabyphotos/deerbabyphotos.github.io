@@ -325,9 +325,8 @@ body {
 }
 
 #container { 
-  width: 940px;
-  min-width: 940px;
-  max-width: 940px;
+  width: 100%;
+  
   background: #fff;
   margin: 0 auto;
   position: relative;
